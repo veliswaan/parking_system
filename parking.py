@@ -1,5 +1,4 @@
 # Veliswa Boya
-# Student Number: 402601157
 # BSc: IT, 2026S1PR511AD
 # 2026 Semester 1
 

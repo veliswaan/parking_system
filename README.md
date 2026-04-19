@@ -2,7 +2,7 @@
 
 A command-line parking management application for three KwaZulu-Natal malls, supporting drivers, admins, and mall owners.
 
-**Author:** Veliswa Boya | Student Number: 402601157 | BSc IT — 2026S1PR511AD
+**Author:** Veliswa Boya | BSc IT — 2026S1PR511AD
 
 ---
 
